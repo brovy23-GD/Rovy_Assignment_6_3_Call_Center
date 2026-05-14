@@ -1,0 +1,14 @@
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\bin\Debug\net10.0\Rovy Assignment 6.3 Call Center.exe
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\bin\Debug\net10.0\Rovy Assignment 6.3 Call Center.deps.json
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\bin\Debug\net10.0\Rovy Assignment 6.3 Call Center.runtimeconfig.json
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\bin\Debug\net10.0\Rovy Assignment 6.3 Call Center.dll
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\bin\Debug\net10.0\Rovy Assignment 6.3 Call Center.pdb
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\Rovy Assignment 6.3 Call Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\Rovy Assignment 6.3 Call Center.AssemblyInfoInputs.cache
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\Rovy Assignment 6.3 Call Center.AssemblyInfo.cs
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\Rovy Assignment 6.3 Call Center.csproj.CoreCompileInputs.cache
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\Rovy Assignment 6.3 Call Center.dll
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\refint\Rovy Assignment 6.3 Call Center.dll
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\Rovy Assignment 6.3 Call Center.pdb
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\Rovy Assignment 6.3 Call Center.genruntimeconfig.cache
+C:\Visual Studio Assignments\Rovy Assignment 6.3 Call Center\obj\Debug\net10.0\ref\Rovy Assignment 6.3 Call Center.dll
